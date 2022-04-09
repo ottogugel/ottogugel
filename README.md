@@ -3,10 +3,10 @@
 - 👨🏻‍💻 Hoje trabalho com Front-End
 - 📚 Estudando JavaScript
 
-<div>
+<div align="center">
   <a href="https://github.com/ottogugel">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ottogugel&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottogugel&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ottogugel&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottogugel&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Otto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
