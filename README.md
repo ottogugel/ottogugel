@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Otto Gugel 👋
 
 - 👨🏻‍💻 Hoje trabalho com Front-End
-- 📚 Estudando JavaScript
+- 📚 Estudando JavaScript e Kotlin
 
 <div align="center">
   <a href="https://github.com/ottogugel">
