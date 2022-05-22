@@ -17,7 +17,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <img align="right" alt="Otto-Shu" src="(https://pa1.narvii.com/6399/65f8fcc9ee00289fc65ff64d493d58de8d129f55_hq.gif)">
+  <img align="right" alt="Otto-Shu" src="https://pa1.narvii.com/6399/65f8fcc9ee00289fc65ff64d493d58de8d129f55_hq.gif">
   
  ##
   
