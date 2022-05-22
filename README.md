@@ -17,7 +17,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <img align="right" alt="Otto-Shu" src="[https://c.tenor.com/bfomvxI61bEAAAAM/anime-guilty-crown.gif](https://c.tenor.com/Db6nDbaMqFkAAAAC/anime-guilty-crown.gif)">
+  <img align="right" alt="Otto-Shu" src="https://c.tenor.com/Db6nDbaMqFkAAAAC/anime-guilty-crown.gif">
   
  ##
   
