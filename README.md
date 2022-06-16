@@ -11,8 +11,9 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
-  <div align="center"> <br />
+ 
+  ### My GitHub Stats
+  <div align="center">
   <a href="https://github.com/ottogugel">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=ottogugel&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottogugel&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
