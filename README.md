@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Hoje trabalho com Front-End
 - 📚 Estudando JavaScript e Kotlin
  
- <br> 
+
 💻 <strong>Technologies and Tools:<strong>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -11,6 +11,9 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <br>
+ 
+ 📖 **Currently Learning:** Spring Framework, Oracle DB, Clojure
  
   ### My GitHub Stats
   <div align="center">
