@@ -1,4 +1,11 @@
-### Olá, Eu sou o Otto Gugel 👋
+## Otto Gugel
+
+<div align="left"> 
+  <a href = "mailto:ottogugel99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/otto-gugel-3bab38147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+Tech enthusiast and passionate with a main focus on the technological environment and the development of web systems, mobile apps, using up-to-date technologies from the market.
 
 💻 <strong>Technologies and Tools:<strong>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -24,9 +31,4 @@
   
  ##
   
-<div> 
-  <a href = "mailto:ottogugel99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/otto-gugel-3bab38147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
