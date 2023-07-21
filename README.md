@@ -32,5 +32,3 @@ Tech enthusiast and passionate with a main focus on the technological environmen
 </div>
   
  ##
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
