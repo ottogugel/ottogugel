@@ -23,10 +23,9 @@ Tech enthusiast and passionate with a main focus on the technological environmen
  📖 **Currently Learning:** ReactJS, React Native and TypeScript
  
   ### My GitHub Stats
-  <div align="center">
   <a href="https://github.com/ottogugel">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dracula&hide_border=true&include_all_commits=true&count_private=true""/>
-  <img height="200cm" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dracula&hide_border=true"/>
-</div>
-    
+  <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dracula&hide_border=true&include_all_commits=true&count_private=true""/>
+  <img height="200cm" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dracula&hide_border=true"/>
+  </a>
+  
  ##
