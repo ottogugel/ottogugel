@@ -1,5 +1,7 @@
 # Otto Gugel
 
+<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+
 <div align="left"> 
   <a href = "mailto:ottogugel99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ottogugel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,8 +26,8 @@ Tech enthusiast and passionate with a main focus on the technological environmen
  
   ### My GitHub Stats
   <a href="https://github.com/ottogugel">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dracula&hide_border=true&include_all_commits=true&count_private=true""/>
-  <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dracula&hide_border=true"/>
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=true&count_private=true""/>
+  <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
   </a>
   
  ##
