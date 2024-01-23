@@ -20,9 +20,9 @@ Tech enthusiast and passionate with a main focus on the technological environmen
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </div>
   <div>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -35,9 +35,9 @@ Tech enthusiast and passionate with a main focus on the technological environmen
  📖 **Currently Learning:** ReactJS, React Native and TypeScript
  
   ### My GitHub Stats 
-  <a href="https://github.com/ottogugel">
-  <img src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
+  <a href="#">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
   </a>
   
  ##
