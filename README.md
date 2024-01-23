@@ -2,12 +2,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
 
-<div align="left"> 
+<div align="left">
+  <a href="https://ottogugel.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href = "mailto:ottogugel99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ottogugel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br>
 
 Tech enthusiast and passionate with a main focus on the technological environment and the development of web systems, mobile apps, using up-to-date technologies from the market.
 
