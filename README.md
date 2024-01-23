@@ -36,8 +36,8 @@ Tech enthusiast and passionate with a main focus on the technological environmen
  
   ### My GitHub Stats 
   <a href="#">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="190" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
   </a>
   
  ##
