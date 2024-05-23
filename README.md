@@ -1,13 +1,9 @@
 # Otto Gugel
 
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
-
-<div align="left">
-  <a href="https://ottogugel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
-  <a href = "mailto:ottogugel99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ottogugel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-ottogugel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/ottogugel/)
+[![Medium Badge](https://img.shields.io/badge/-@ottogugel-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@ottogugel99)
+[![Website Badge](https://img.shields.io/badge/-portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://ottogugel.vercel.app)
+[![Gmail Badge](https://img.shields.io/badge/-ottogugel99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:ottogugel99@gmail.com)
 
 Tech enthusiast and passionate with a main focus on the technological environment and the development of web systems, mobile apps, using up-to-date technologies from the market.
 
