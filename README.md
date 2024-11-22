@@ -30,10 +30,6 @@ Tech enthusiast and passionate with a main focus on the technological environmen
  
  📖 **Currently Learning:** ReactJS, React Native and TypeScript
  
-  ### My GitHub Stats 
-  <div display: flex; justify-content: space-around; align-items: center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ottogugel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ottogugel&theme=dark&hide_border=true"/>
-  </div>
+
   
  ##
